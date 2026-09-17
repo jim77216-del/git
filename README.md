@@ -9,6 +9,7 @@
 - git commit
 - git push
 - git pull
+- - git pull (網頁新增這行)
 
 ## 心得
 
